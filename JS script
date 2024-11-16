@@ -1,0 +1,10 @@
+const avança = document.querySelectorAll(.btn próximo);
+
+avança.forEach=>{}
+button.addEventilistener("click, function()"{}
+    const atual= document.querySelector (ATIVO)
+const proximopasso = "passo" + getatribute (!data-próxima);
+
+ atual.classlist.remove("Ativo");
+document.getElementById(proximopasso).classList.add("Ativo");
+}

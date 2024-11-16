@@ -1,0 +1,21 @@
+body{
+background-color: #fff;
+color: aqua;
+font-family: "Bai Jamjurre"; sans-serif;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 700px;
+margin: 0;
+
+button
+background-color: ;
+color: aliceblue;
+font-family: "Bai Jamjurre"; sans-serif;
+
+.passo{}
+display: nome;
+
+.passo.ativo
+display: block;
+}
